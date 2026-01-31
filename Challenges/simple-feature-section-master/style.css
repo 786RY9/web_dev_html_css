@@ -1,0 +1,41 @@
+body {
+  background-image: url("resources/Background_image.svg");
+  background-color: #121826;
+  font-family: Outfit;
+}
+
+.outfit-gfont {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: 600; */
+  font-style: normal;
+}
+header {
+  text-align: center;
+  display: flex;
+  color: #e5e7eb;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+  max-width: 40%;
+  
+}
+.subheading {
+  color: #9da3ae;
+  font-weight: 400;
+  font-size: 16px;
+}
+p {
+  color: #d2d5da;
+  font-weight: 400;
+  font-size: 16px;
+}
+.smallheading {
+  font-weight: 600;
+  font-size: 20px;
+  color: #e5e7eb;
+}
